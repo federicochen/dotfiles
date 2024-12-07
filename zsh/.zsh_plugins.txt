@@ -24,6 +24,9 @@ belak/zsh-utils path:history
 # Prompt
 #romkatv/powerlevel10k
 
+#getantidote/use-omz
+#migoa/neo
+
 # Utilities
 zshzoo/macos
 belak/zsh-utils path:utility
